@@ -1,0 +1,11 @@
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\bin\Release\[Till].exe
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\bin\Release\[Till].pdb
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\_Till_.MainWindow.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\_Till_.Panels.Till.Convenience.Reports.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\_Till_.Panels.Till.Convenience.StockManager.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\_Till_.Panels.Till.Convenience.TillMain.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\_Till_.Panels.Till.SystemPage.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\_Till_.Properties.Resources.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\[Till].csproj.GenerateResource.Cache
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\[Till].exe
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Release\[Till].pdb

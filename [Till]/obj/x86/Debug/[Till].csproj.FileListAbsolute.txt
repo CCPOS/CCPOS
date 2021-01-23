@@ -1,0 +1,13 @@
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\bin\Debug\[Till].exe
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\bin\Debug\[Till].pdb
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.MainWindow.resources
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Panels.Till.Convenience.TillMain.resources
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Properties.Resources.resources
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\[Till].csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\[Till].exe
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\[Till].pdb
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Panels.Till.Convenience.Reports.resources
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Panels.Till.Convenience.StockManager.resources
+c:\users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Panels.Till.SystemPage.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Panels.Setup.Welcome.resources
+C:\Users\pablo\documents\visual studio 2010\Projects\[CCPOS]\[Till]\obj\x86\Debug\_Till_.Setup.resources
